@@ -1,4 +1,4 @@
-# <img aling src="https://github.com/malegria01/ACI2227/blob/main/img/programacion.jpg" alt="drawing" width="70">  ACI2227  
+# <img aling src="https://github.com/malegria01/ACI2227/blob/main/img/programacion.jpg" alt="drawing" width="100">  ACI2227  
  
 
 
