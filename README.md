@@ -1,4 +1,4 @@
-# <img aling src="https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png" alt="drawing" width="70"> Análisis de datos 
+# <img aling src="https://github.com/malegria01/ACI2227/blob/main/img/programacion.jpg" alt="drawing" width="70">  ACI2227  
  
 
 
