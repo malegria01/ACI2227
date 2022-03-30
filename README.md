@@ -13,7 +13,7 @@ Este repositorio contiene material suplementario (pero en ningún caso obligator
 
 ## Material Suplmentario 
 
-Aqui pudiste aprender el modelo cascada o waterfall model, el cual tiene etapas como ```Análisis``` , ```Diseño``` , ```Codificación``` , ```Ejecución``` , ```Verificación``` y ```Mantenimiento y Documentación```.
+Ya has aprendido el modelo cascada o waterfall model, el cual tiene etapas como ```Análisis``` , ```Diseño``` , ```Codificación``` , ```Ejecución``` , ```Verificación``` y ```Mantenimiento y Documentación```.
 Este es un modelo clásico que tiene ventajas y desventajas
 
 | Ventajas| Desventajas         
