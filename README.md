@@ -37,3 +37,9 @@ Agile, desarrollo por etapas, desarrollo concurrente, modelo en espiral, entre o
 * Agile trabaja bajo una mentalidad de producto con un enfoque en la satisfacción del cliente. En tanto, la metodología Waterfall se desarrolla con un enfoque en la entrega exitosa del proyecto.
 
 Buscar sobre SCRUM para complementar.
+
+
+## JAVA
+Java proporciona la clase ***Graphics**, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
+
+Si deseas profundizar en la Clase Graphics y sus métodos te esta [pagina web](https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?codigo=130&punto=&inicio=), tiene ejemlpos y videos a esos ejemplos
