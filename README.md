@@ -47,3 +47,30 @@ Si deseas profundizar en la Clase Graphics y sus métodos te esta [pagina web](h
 
 Cuando el usuario de un programa o applet mueve el ratón, o hace un clic o usa el teclado, genera un Evento. En Java los eventos, como cualquier otra cosa, se representan como instancias u objetos de alguna clase. Para programar una interfaz gráfica es necesario aprender a utilizar los eventos.
 Un aspecto importante es conocer que hacen estos eventos, por lo que te recomiendo complementar tu estudio esta [Unidad](https://arquimedes.matem.unam.mx/pasados/java_profundizacion/index4.htm)
+
+
+## ¿Cómo crear FileFilter para JFileChooser en Java y mostrar el tipo de archivo en consecuencia?
+
+Para crear FileFilter, utilice la clase FileNameExtensionFilter. El siguiente es un ejemplo para mostrar el tipo de archivo en JFileChooser
+
+>Ejemplo
+
+```
+import javax.swing.JFileChooser;
+import javax.swing.filechooser.FileNameExtensionFilter;
+public class SwingDemo {
+   public static void main(String[] args) {
+      JFileChooser file = new JFileChooser();
+      file.setAcceptAllFileFilterUsed(false);
+      FileNameExtensionFilter extFilter = new FileNameExtensionFilter("JPEG file", "jpg", "jpeg");
+      file.addChoosableFileFilter(extFilter);
+      file.showOpenDialog(null);
+   }
+}
+
+```
+
+Salida
+
+![imagen](https://user-images.githubusercontent.com/8738096/161644808-c647794e-41ee-43a5-8bee-befe4de77821.png)
+
