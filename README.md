@@ -40,6 +40,6 @@ Buscar sobre SCRUM para complementar.
 
 
 ## JAVA
-Java proporciona la clase ***Graphics**, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
+Java proporciona la clase ***Graphics***, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
 
 Si deseas profundizar en la Clase Graphics y sus métodos te esta [pagina web](https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?codigo=130&punto=&inicio=), tiene ejemlpos y videos a esos ejemplos
