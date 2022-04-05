@@ -74,3 +74,12 @@ Salida
 
 ![imagen](https://user-images.githubusercontent.com/8738096/161644808-c647794e-41ee-43a5-8bee-befe4de77821.png)
 
+
+
+## Parte Práctica con Pyhton
+
+Para comenzar a practicar, te recomendo realizar una cuenta en google colaboratory  solo necesitas tener un correo gmail. 
+
+1.0 [Crear cuenta google colab](https://colab.research.google.com/)
+2.0 Introducción google colab, puedes ver este [video](https://www.youtube.com/watch?v=8VFYs3Ot_aA)
+
