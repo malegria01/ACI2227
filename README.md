@@ -51,7 +51,7 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 1.0 Complementa tu aprendizaje con estas [slides](https://github.com/malegria01/ACI2227/blob/main/material/Clase3.pdf) y jupyter notebook para practicar en Python:
 [![Open In Colab]
-(https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb)
 
 
 
