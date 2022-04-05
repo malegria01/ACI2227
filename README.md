@@ -49,7 +49,7 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 # Un poco sobre POO
 
-1.0 Complementa tu aprendizaje con estas slides y jupyter notebook para practicar en Python
+1.0 Complementa tu aprendizaje con estas [slides](https://github.com/malegria01/ACI2227/blob/main/material/Clase3.pdf) y jupyter notebook para practicar en Python
 
 
 
