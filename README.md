@@ -52,7 +52,7 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 1.0 Complementa tu aprendizaje con estas [slides](https://github.com/malegria01/ACI2227/blob/main/material/Clase3.pdf) y jupyter notebook para practicar en Python:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb)
 
-##### Material Suplementario: Tutorial de diagramas de Clases con UML
+### Material Suplementario: Tutorial de diagramas de Clases con UML
 
 Esta [aplicación](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml) deja realizar hasta 3 proyectos gratuitos de UML
 
