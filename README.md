@@ -92,6 +92,14 @@ Salida
 
 
 
+## JAVA Swing 
+
+>Requisitos: Instalar JAVA y netbeans
+
+Para comenzar a practicar con Java Swing con netbeans les recomiedo hacer este mini curso:
+
+1.0 [JAVA Swing Para principiantes](https://www.youtube.com/playlist?list=PL7hvmQpR5pU2nFcquqtCWLlSIkdu4sB7G) y complementar tips para mejorar el diseño como:
+2.0 [interfaz JAVA más elegante](https://www.youtube.com/watch?v=LdBl0th_U_Q)
 
 
 
