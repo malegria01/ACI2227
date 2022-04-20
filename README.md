@@ -56,6 +56,9 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 
 ## JAVA
+
+Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
+
 Java proporciona la clase ***Graphics***, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
 
 Si deseas profundizar en la Clase Graphics y sus métodos te esta [pagina web](https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?codigo=130&punto=&inicio=), tiene ejemlpos y videos a esos ejemplos
