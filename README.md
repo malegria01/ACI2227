@@ -108,6 +108,6 @@ Para comenzar a practicar con Java Swing con netbeans les recomiedo hacer este m
 
 
 
-## Clase sincrónica 21 de Abril
+## Clase sincrónica 21 de Abril en  [PDF](https://github.com/malegria01/ACI2227/blob/main/material/Clase21Abril.pdf) 
 
 
