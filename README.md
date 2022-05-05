@@ -58,8 +58,12 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 ## JAVA
 
 
-[EJEMPLO1](https://javautodidacta.es/instanciar-un-objeto-en-java/):  con código: crear una clase en JAVA, instanciar un objeto y concepto de encapsulamiento
+[EJEMPLO1](https://javautodidacta.es/instanciar-un-objeto-en-java/):  con código, crear una clase en JAVA, instanciar un objeto y concepto de encapsulamiento
 
+[EJEMPLO2](https://javadesdecero.es/poo/herencia-java-tipos-ejemplos/): con código, concepto de Herencia en JAVA.
+
+
+[EJEMPLO3](https://ifgeekthen.nttdata.com/es/polimorfismo-en-java-programaci%C3%B3n-orientada-objetos): con código, concepto de polimorfismo en JAVA.
 
 Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
 
