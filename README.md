@@ -6,7 +6,7 @@
 
 ## Profesora: Melissa Alegría. 
 
-Este repositorio contiene material suplementario (pero en ningún caso obligatorio) al curso online de Programación Aplicada ACI2227.
+Este repositorio contiene material suplementario al curso online de Programación Aplicada ACI2227.
  
 ##### Aquí encontrarás material para complementar tu aprendizaje y poner en práctica tus conocimientos obtenidos en la plataforma blackboard.
 
@@ -56,6 +56,10 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 
 ## JAVA
+
+
+[EJEMPLO1](https://javautodidacta.es/instanciar-un-objeto-en-java/):  con código: crear una clase en JAVA, instanciar un objeto y concepto de encapsulamiento
+
 
 Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
 
