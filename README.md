@@ -136,6 +136,8 @@ Código de acceso: $v2Rd3Tw
 [Link Zoom](https://udla.zoom.us/rec/share/NndW3T7VYChFG8CuvtgqiGa3D31yyCHEa2e1nDhkmx1R_GrySOfowfQX4oK00dNM.8UZBmXUS2CootkQF)
 Código de acceso: Progra2022%
 
+## Instalar phpMyAdmin en cualquier sistema operativo 
+[Instrucciones](https://kinsta.com/es/blog/instalar-phpmyadmin/)
 
 
 ## Conectar JAVA con MySQL en Netbeans
