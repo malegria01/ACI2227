@@ -143,3 +143,7 @@ Connection con = conecta.getConexion();
 JOptionPane.showMessageDialog(null, "Conexión establecida con éxito");
 
 ```
+
+## Insertar datos desde una aplicacion java a MySQL
+
+[Tutorial](https://www.cablenaranja.com/como-insertar-datos-desde-una-aplicacion-java-hacia-mysql/)
