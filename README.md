@@ -129,3 +129,17 @@ Código de acceso: $v2Rd3Tw
 
 
 [Video](https://www.youtube.com/watch?v=uUdKAYl-F7g&t=1085s) de bases de datos 
+
+
+## Conectar JAVA con MySQL en Netbeans
+
+[Tutorial](https://www.cablenaranja.com/como-conectar-java-con-mysql-en-netbeans/)
+
+Para conectar la DB: Dar doble click al botón “Conectar a DB” se crea el método `actionPerformed` y dentro de este colocar el sigueinte código:
+
+```
+Conectar conecta = new Conectar();
+Connection con = conecta.getConexion();
+JOptionPane.showMessageDialog(null, "Conexión establecida con éxito");
+
+```
