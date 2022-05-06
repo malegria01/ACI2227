@@ -56,16 +56,20 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 
 ## JAVA
+Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
 
 
 [EJEMPLO1](https://javautodidacta.es/instanciar-un-objeto-en-java/):  con código, crear una clase en JAVA, instanciar un objeto y concepto de encapsulamiento
 
-[EJEMPLO2](https://javadesdecero.es/poo/herencia-java-tipos-ejemplos/): con código, concepto de Herencia en JAVA.
+[EJEMPLO2](https://jarroba.com/herencia-en-la-programacion-orientada-a-objetos-ejemplo-en-java/): con código, concepto de Herencia en JAVA.
 
 
 [EJEMPLO3](https://ifgeekthen.nttdata.com/es/polimorfismo-en-java-programaci%C3%B3n-orientada-objetos): con código, concepto de polimorfismo en JAVA.
 
-Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
+[EJEMPLO4](https://javadesdecero.es/poo/sobrecarga-de-metodos/): con código, sobrecarga de métodos en Java.
+
+[EJEMPLO 5](http://puntocomnoesunlenguaje.blogspot.com/2012/07/normal-0-21-false-false-false_103.html), con código, método constructor en JAVA:
+
 
 Java proporciona la clase ***Graphics***, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
 
