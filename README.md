@@ -68,7 +68,7 @@ Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/w
 
 [EJEMPLO4](https://javadesdecero.es/poo/sobrecarga-de-metodos/): con código, sobrecarga de métodos en Java.
 
-[EJEMPLO 5](http://puntocomnoesunlenguaje.blogspot.com/2012/07/normal-0-21-false-false-false_103.html), con código, método constructor en JAVA:
+[EJEMPLO 5](http://puntocomnoesunlenguaje.blogspot.com/2012/07/normal-0-21-false-false-false_103.html): con código, método constructor en JAVA:
 
 
 Java proporciona la clase ***Graphics***, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
