@@ -122,13 +122,20 @@ Para comenzar a practicar con Java Swing con netbeans les recomiedo hacer este m
 
 ## Clase sincrónica 21 de Abril en  [PDF](https://github.com/malegria01/ACI2227/blob/main/material/Clase21Abril.pdf) 
 
-https://udla.zoom.us/rec/share/iu5F72sSvi0PMSS9YqYmfWtSDVCrIPABIYiM7s4xXaGmSm82X5tuYjUGaArxWt4.M8E8_GaFGnswTc1U?startTime=1650587332000
+[Link Zoom](https://udla.zoom.us/rec/share/iu5F72sSvi0PMSS9YqYmfWtSDVCrIPABIYiM7s4xXaGmSm82X5tuYjUGaArxWt4.M8E8_GaFGnswTc1U?startTime=1650587332000)
 Código de acceso: $v2Rd3Tw
 
 [Video](https://www.youtube.com/watch?v=ZOe3WoeSQ-I&list=PL4qycS8CTHjupFAA4FaViX7X_2XwEKbmP) de Curso de JAVA y bases de datos usando Eclipse y phpMyadmin 
 
 
 [Video](https://www.youtube.com/watch?v=uUdKAYl-F7g&t=1085s) de bases de datos 
+
+
+### Clase sincrónica 5 de Mayo
+
+[Link Zoom](https://udla.zoom.us/rec/share/NndW3T7VYChFG8CuvtgqiGa3D31yyCHEa2e1nDhkmx1R_GrySOfowfQX4oK00dNM.8UZBmXUS2CootkQF)
+Código de acceso para acceder: Progra2022%
+
 
 
 ## Conectar JAVA con MySQL en Netbeans
