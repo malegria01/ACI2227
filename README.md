@@ -131,7 +131,7 @@ Código de acceso: $v2Rd3Tw
 [Video](https://www.youtube.com/watch?v=uUdKAYl-F7g&t=1085s) de bases de datos 
 
 
-### Clase sincrónica 5 de Mayo
+## Clase sincrónica 5 de Mayo
 
 [Link Zoom](https://udla.zoom.us/rec/share/NndW3T7VYChFG8CuvtgqiGa3D31yyCHEa2e1nDhkmx1R_GrySOfowfQX4oK00dNM.8UZBmXUS2CootkQF)
 Código de acceso para acceder: Progra2022%
