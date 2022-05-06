@@ -125,7 +125,7 @@ Para comenzar a practicar con Java Swing con netbeans les recomiedo hacer este m
 https://udla.zoom.us/rec/share/iu5F72sSvi0PMSS9YqYmfWtSDVCrIPABIYiM7s4xXaGmSm82X5tuYjUGaArxWt4.M8E8_GaFGnswTc1U?startTime=1650587332000
 Código de acceso: $v2Rd3Tw
 
-[Video] de Curso de JAVA y bases de datos usando Eclipse y phpMyadmin (https://www.youtube.com/watch?v=ZOe3WoeSQ-I&list=PL4qycS8CTHjupFAA4FaViX7X_2XwEKbmP)
+[Video](https://www.youtube.com/watch?v=ZOe3WoeSQ-I&list=PL4qycS8CTHjupFAA4FaViX7X_2XwEKbmP) de Curso de JAVA y bases de datos usando Eclipse y phpMyadmin 
 
 
-[Video] de bases de datos (https://www.youtube.com/watch?v=uUdKAYl-F7g&t=1085s)
+[Video](https://www.youtube.com/watch?v=uUdKAYl-F7g&t=1085s) de bases de datos 
