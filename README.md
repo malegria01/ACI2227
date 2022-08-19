@@ -44,7 +44,15 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 1.0 [Crear cuenta google colab](https://colab.research.google.com/)
 
-2.0 Introducción google colab, puedes ver este [video](https://www.youtube.com/watch?v=8VFYs3Ot_aA)
+2.0 Introducción google colab, puedes ver este [video](https://www.youtube.com/watch?v=8VFYs3Ot_aA
+
+3.0 Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
+
+4.0 [¿Qué es GitHub?](https://github.com/dtravisany/ACI777/main/03_Practico_github/README.md)
+
+5.0 Tutorial de instalación de por si quieres tener instlado Python de forma local: [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
+
+6.0 [Pack Studiantes](https://education.github.com/pack)  Registrar con su cuenta .edu
 
 
 # Un poco sobre POO
