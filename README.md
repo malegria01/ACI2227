@@ -48,7 +48,7 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 3.0 Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
 
-4.0 [¿Qué es GitHub?](https://github.com/dtravisany/ACI777/main/03_Practico_github/README.md)
+4.0 [¿Qué es GitHub?](https://github.com/dtravisany/ACI777/blob/main/03_Practico_github/README.md)
 
 5.0 Tutorial OPCIONAL de instalación de por si quieres tener instlado Python de forma local: [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
 
