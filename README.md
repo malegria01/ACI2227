@@ -11,7 +11,15 @@ Este repositorio contiene material suplementario al curso online de Programació
 ##### Aquí encontrarás material para complementar tu aprendizaje y poner en práctica tus conocimientos obtenidos en la plataforma blackboard.
 
 
+# ANUNCIOS
+
+
+
+
 ## Material Suplementario 
+
+[Clase sincrónica 1](https://github.com/malegria01/ACI2227/blob/main/material/Clase1.pdf)
+Link de la grabación lo encuentran tablero de discusión, en anuncios del Profesor
 
 Ya has aprendido el modelo cascada o waterfall model, el cual tiene etapas como ```Análisis``` , ```Diseño``` , ```Codificación``` , ```Ejecución``` , ```Verificación``` y ```Mantenimiento y Documentación```.
 Este es un modelo clásico que tiene ventajas y desventajas
