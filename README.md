@@ -13,7 +13,19 @@ Este repositorio contiene material suplementario al curso online de Programació
 
 # ANUNCIOS
 
+Estimad@s alumn@s,
 
+Esperando que se encuentren bien les recuerdo que ya se encuentra disponible para rendir el Ejercicio  n°1 de ACI2227EL Programación Aplicada. La evaluación estará disponible hasta el lunes 29 de agosto, hasta las 23:59 hrs.
+
+A saber:
+
+    El Ejercicio n°1 es de tipo individual.
+    Cuenta con 1 intento de 120 minutos, desde que se da inicio a la evaluación.
+    La nota mínima de aprobación 4,0 se obtiene logrando el cumplimiento del 60% de este puntaje.
+    Los resultados de la evaluación junto con la revisión se liberarán una vez terminado el plazo de disponibilidad de la actividad.
+    Revise y guarde sus respuestas, antes de realizar el envío.
+
+Además tener en cuenta que  existe este material adicional a su aprendizaje, el cual tambien deben considerar para rendir su evaluación ya que podrían tener preguntas relacionadas.
 
 
 ## Material Suplementario 
