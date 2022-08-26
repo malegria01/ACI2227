@@ -32,7 +32,7 @@ Además tener en cuenta que  existe este material adicional a su aprendizaje, el
 
 [Clase sincrónica 1](https://github.com/malegria01/ACI2227/blob/main/material/Clase1.pdf)
 
-Link de la grabación lo encuentran tablero de discusión, en anuncios del Profesor
+Link de la grabación lo encuentran tablero de discusión, en anuncios del Profesor en Blackboard.
 
 ### Modelo Cascada
 
