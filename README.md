@@ -91,5 +91,7 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
  2. Introducción a Python II  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Notebooks/Clase3_RepasoPython2_parte1.ipynb)
 
+# JAVA
+Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
 
 
