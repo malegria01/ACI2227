@@ -85,5 +85,11 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
 2.0 Material Suplementario: Tutorial de diagramas de Clases con `UML`: Con esta [aplicación](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml) puedes realizar hasta 3 proyectos gratuitos de UML
 
+## Python
+
+ 1. Introducción a Python I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Clase2_IntroduccionPython1.ipynb)
+
+ 2. Introducción a Python II  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Notebooks/Clase3_RepasoPython2_parte1.ipynb)
+
 
 
