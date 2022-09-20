@@ -91,7 +91,69 @@ Para comenzar a practicar, te recomendo realizar una cuenta en google colaborato
 
  2. Introducción a Python II  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Notebooks/Clase3_RepasoPython2_parte1.ipynb)
 
-# JAVA
+
+
+## JAVA
 Si necesitas instalar [NetBeans, puedes  ver el video](https://www.youtube.com/watch?v=uQRkycWKq24)
+
+
+[EJEMPLO1](https://javautodidacta.es/instanciar-un-objeto-en-java/):  con código, crear una clase en JAVA, instanciar un objeto y concepto de encapsulamiento
+
+[EJEMPLO2](https://jarroba.com/herencia-en-la-programacion-orientada-a-objetos-ejemplo-en-java/): con código, concepto de Herencia en JAVA.
+
+
+[EJEMPLO3](https://ifgeekthen.nttdata.com/es/polimorfismo-en-java-programaci%C3%B3n-orientada-objetos): con código, concepto de polimorfismo en JAVA.
+
+[EJEMPLO4](https://javadesdecero.es/poo/sobrecarga-de-metodos/): con código, sobrecarga de métodos en Java.
+
+[EJEMPLO 5](http://puntocomnoesunlenguaje.blogspot.com/2012/07/normal-0-21-false-false-false_103.html): con código, método constructor en JAVA:
+
+
+Java proporciona la clase ***Graphics***, que permite dibujar elipses, cuadrados, líneas, mostrar texto y también tiene muchos otros métodos de dibujo. Para cualquier programador, es esencial el entendimiento de la clase Graphics, antes de adentrarse en el dibujo en Java.
+
+Si deseas profundizar en la Clase Graphics y sus métodos te esta [pagina web](https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?codigo=130&punto=&inicio=), tiene ejemlpos y videos a esos ejemplos
+
+
+Cuando el usuario de un programa o applet mueve el ratón, o hace un clic o usa el teclado, genera un Evento. En Java los eventos, como cualquier otra cosa, se representan como instancias u objetos de alguna clase. Para programar una interfaz gráfica es necesario aprender a utilizar los eventos.
+Un aspecto importante es conocer que hacen estos eventos, por lo que te recomiendo complementar tu estudio esta [Unidad](https://arquimedes.matem.unam.mx/pasados/java_profundizacion/index4.htm)
+
+
+## ¿Cómo crear FileFilter para JFileChooser en Java y mostrar el tipo de archivo en consecuencia?
+
+Para crear FileFilter, utilice la clase FileNameExtensionFilter. El siguiente es un ejemplo para mostrar el tipo de archivo en JFileChooser
+
+>Ejemplo
+
+```
+import javax.swing.JFileChooser;
+import javax.swing.filechooser.FileNameExtensionFilter;
+public class SwingDemo {
+   public static void main(String[] args) {
+      JFileChooser file = new JFileChooser();
+      file.setAcceptAllFileFilterUsed(false);
+      FileNameExtensionFilter extFilter = new FileNameExtensionFilter("JPEG file", "jpg", "jpeg");
+      file.addChoosableFileFilter(extFilter);
+      file.showOpenDialog(null);
+   }
+}
+
+```
+
+Salida
+
+![imagen](https://user-images.githubusercontent.com/8738096/161644808-c647794e-41ee-43a5-8bee-befe4de77821.png)
+
+
+
+## JAVA Swing 
+
+>Requisitos: Instalar JAVA y netbeans
+
+Para comenzar a practicar con Java Swing con netbeans les recomiedo hacer este mini curso:
+
+1.0 [JAVA Swing Para principiantes](https://www.youtube.com/playlist?list=PL7hvmQpR5pU2nFcquqtCWLlSIkdu4sB7G) y complementar tips para mejorar el diseño como:
+
+2.0 [interfaz JAVA más elegante](https://www.youtube.com/watch?v=LdBl0th_U_Q)
+
 
 
