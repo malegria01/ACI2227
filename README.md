@@ -24,6 +24,20 @@ A saber:
     La nota mínima de aprobación 4,0 se obtiene logrando el cumplimiento del 60% de este puntaje.
     Los resultados de la evaluación junto con la revisión se liberarán una vez terminado el plazo de disponibilidad de la actividad.
     Revise y guarde sus respuestas, antes de realizar el envío.
+    
+    El Ejercicio n°2 es de tipo individual.
+    
+    - Preguntas de Emparejamiento, elegir la palabra perdida, Verdadero o Falso, Desarrollo.
+    
+    - Desarrollo:
+    
+          --> Se pide subir identado un codigo en JAVA.
+          
+          --> Se pide lineas para solucionar problemas en Python
+          
+          -->Fase de requerimiento, análisis y diseño
+
+
 
 Además tener en cuenta que  existe este material adicional a su aprendizaje, el cual tambien deben considerar para rendir su evaluación ya que podrían tener preguntas relacionadas.
 
